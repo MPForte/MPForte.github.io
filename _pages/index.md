@@ -19,7 +19,6 @@ Beyond academic contributions, I am committed to translating research into real-
 
 
 <h2 style="border-bottom: none;">Education</h2>
-
 - Ph.D. Computer Science, Max Planck Institute for Intelligent Systems (2025)  
 - M.Sc. Bioengineering, Politecnico di Milano (2018), including an exchange semester at the University of Queensland  
 - B.Sc. Biomedical Engineering, University of Genova (2015)
