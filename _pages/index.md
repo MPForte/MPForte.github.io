@@ -18,7 +18,7 @@ My Ph.D. thesis, "An Interdisciplinary Approach to Human Pose Estimation: Applic
 Beyond academic contributions, I am committed to translating research into real-world applications. My bioimpedance sensing technology has led to a provisional patent, and I am exploring its commercialization potential through entrepreneurship programs.
 
 
-<h2 style="display: inline;">Education</h2>
+<h2 style="border-bottom: none;">Education</h2>
 
 - Ph.D. Computer Science, Max Planck Institute for Intelligent Systems (2025)  
 - M.Sc. Bioengineering, Politecnico di Milano (2018), including an exchange semester at the University of Queensland  
